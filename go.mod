@@ -8,7 +8,7 @@ require (
 )
 
 require (
-	gitee.com/zhaochuninhefei/zcgolog v0.0.12 // indirect
+	gitee.com/zhaochuninhefei/zcgolog v0.0.13 // indirect
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292 // indirect
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
 	golang.org/x/sys v0.0.0-20220310020820-b874c991c1a5 // indirect
