@@ -3,7 +3,7 @@ module gitee.com/zhaochuninhefei/fabric-protos-go-gm
 go 1.17
 
 require (
-	gitee.com/zhaochuninhefei/gmgo v0.0.15
+	gitee.com/zhaochuninhefei/gmgo v0.0.16
 	github.com/golang/protobuf v1.5.2
 )
 
